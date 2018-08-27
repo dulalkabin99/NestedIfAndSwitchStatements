@@ -1,0 +1,7 @@
+C:\Users\dulal\source\repos\NestedIfAndSwitchStatements\bin\Debug\NestedIfAndSwitchStatements.exe.config
+C:\Users\dulal\source\repos\NestedIfAndSwitchStatements\bin\Debug\NestedIfAndSwitchStatements.exe
+C:\Users\dulal\source\repos\NestedIfAndSwitchStatements\bin\Debug\NestedIfAndSwitchStatements.pdb
+C:\Users\dulal\source\repos\NestedIfAndSwitchStatements\obj\Debug\NestedIfAndSwitchStatements.csprojAssemblyReference.cache
+C:\Users\dulal\source\repos\NestedIfAndSwitchStatements\obj\Debug\NestedIfAndSwitchStatements.csproj.CoreCompileInputs.cache
+C:\Users\dulal\source\repos\NestedIfAndSwitchStatements\obj\Debug\NestedIfAndSwitchStatements.exe
+C:\Users\dulal\source\repos\NestedIfAndSwitchStatements\obj\Debug\NestedIfAndSwitchStatements.pdb
